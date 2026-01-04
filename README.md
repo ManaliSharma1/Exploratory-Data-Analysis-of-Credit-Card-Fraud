@@ -27,12 +27,8 @@ The focus is on **data insights and visualization**, not model building.
 - Fraud activity shows **distinct time-based spikes**  
 - PCA features like **V14, V17, V12, V10** strongly separate fraud cases  
 
-## 🛠 Tools
+##  Tools
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
----
-
-## 📚 Reference
+##  Reference
 https://www.kaggle.com/mlg-ulb/creditcardfraud
-
----
