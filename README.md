@@ -1,12 +1,10 @@
 # 💳 Credit Card Fraud Detection – EDA
 
-## 📌 Overview
+##  Overview
 This project performs **Exploratory Data Analysis (EDA)** on credit card transactions to understand fraud patterns in a highly imbalanced dataset.  
 The focus is on **data insights and visualization**, not model building.
 
----
-
-## 📊 Dataset
+##  Dataset
 - **Source:** Kaggle – ULB ML Group  
 - **Transactions:** 284,807  
 - **Fraud Cases:** 492 (0.17%)  
@@ -15,9 +13,7 @@ The focus is on **data insights and visualization**, not model building.
   - 0 → Valid  
   - 1 → Fraud  
 
----
-
-## 🔍 Analysis Performed
+##  Analysis Performed
 - Data overview & summary statistics  
 - Class imbalance analysis  
 - Transaction amount comparison  
@@ -25,15 +21,11 @@ The focus is on **data insights and visualization**, not model building.
 - Feature correlation analysis  
 - Key feature comparison (V14, V17, V12, V10, V3, V11)
 
----
-
-## 📈 Key Insights
+##  Key Insights
 - Fraud is extremely rare but impactful  
 - Fraud transactions tend to have **lower amounts**  
 - Fraud activity shows **distinct time-based spikes**  
 - PCA features like **V14, V17, V12, V10** strongly separate fraud cases  
-
----
 
 ## 🛠 Tools
 Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
